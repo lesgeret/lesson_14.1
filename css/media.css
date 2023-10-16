@@ -226,4 +226,8 @@
     gap: 20px;
 }
 
+.footer__flex-item1, .footer__flex-item2, .footer__flex-item3, .footer__flex-item4 {
+    margin: 0 0 30px 0;
+}
+
 }
